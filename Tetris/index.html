@@ -5,11 +5,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Tetris Game</title>
+  <style>
+    score{
+      display: inline-block;
+      
+    }
+    div{
+        font-size: 25px;
+        font-weight: bold;
+        font-family: monospace;
+      }
+  </style>
 </head>
 <body>
-  
+  <canvas id="tetris" width="200" height="400"></canvas>
+  <div>Score: <div id="score">0</div></div>
+  <script src="tetrominoes.js"></script>
+  <script src="tetris.js"></script>
 </body>
 </html>
-<!-- chsh -s /bin/zsh root  -->
-<!-- https://www.youtube.com/watch?v=HEsAr2Yt2do -->
-<!-- 44-45 -->
