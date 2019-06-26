@@ -1,0 +1,16 @@
+- A promise has 3 states. They are:
+
+Pending: You don't know if you will get that phone
+Fulfilled: Mom is happy, she buys you a brand new phone
+Rejected: Your mom is happy, she withholds the phone
+
+- Promises are Asynchronous
+
+- With ES6 we can use => not function()
+- With ES7 we can use async and await without .then and .catch
+
+- We use promises when need wait the response, for example:
+1. Calling APIs
+2. Downloading files
+3. Reading files
+
