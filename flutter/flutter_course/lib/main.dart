@@ -1,23 +1,24 @@
 import 'package:flutter/material.dart';
+// import 'package:flutter/rendering.dart';
 
-import './product_manager.dart';
+import './pages/auth.dart';
 
-void main() => runApp(MyApp());
+void main() {
+  // debugPaintSizeEnabled = true;
+  // debugPaintBaselinesEnabled = true;
+  runApp(MyApp());
+}
 
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Scaffold(
-          appBar: AppBar(
-            title: Text('Easy List'),
-          ),
-          body: ProductManager('Food Tester')),
+      // debugShowMaterialGrid: true,
+      theme: ThemeData(
+          primarySwatch: Colors.deepOrange,
+          accentColor: Colors.deepPurple,
+          brightness: Brightness.light),
+      home: AuthPage(),
     );
   }
 }
-
-/*
-  Video: 343,
-  min: 6:18
- */
