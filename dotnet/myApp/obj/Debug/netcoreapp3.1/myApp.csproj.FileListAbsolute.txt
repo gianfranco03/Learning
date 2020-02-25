@@ -1,0 +1,11 @@
+/home/cristian/Desktop/Learning/dotnet/myApp/bin/Debug/netcoreapp3.1/myApp
+/home/cristian/Desktop/Learning/dotnet/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/home/cristian/Desktop/Learning/dotnet/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/home/cristian/Desktop/Learning/dotnet/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/home/cristian/Desktop/Learning/dotnet/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/home/cristian/Desktop/Learning/dotnet/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/home/cristian/Desktop/Learning/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/home/cristian/Desktop/Learning/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/home/cristian/Desktop/Learning/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/home/cristian/Desktop/Learning/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/home/cristian/Desktop/Learning/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
