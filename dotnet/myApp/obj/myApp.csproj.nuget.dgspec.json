@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/home/cristian/Desktop/Learning/dotnet/myApp/myApp.csproj": {}
+    "/Users/dev/Desktop/learning/dotnet/myApp/myApp.csproj": {}
   },
   "projects": {
-    "/home/cristian/Desktop/Learning/dotnet/myApp/myApp.csproj": {
+    "/Users/dev/Desktop/learning/dotnet/myApp/myApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cristian/Desktop/Learning/dotnet/myApp/myApp.csproj",
+        "projectUniqueName": "/Users/dev/Desktop/learning/dotnet/myApp/myApp.csproj",
         "projectName": "myApp",
-        "projectPath": "/home/cristian/Desktop/Learning/dotnet/myApp/myApp.csproj",
-        "packagesPath": "/home/cristian/.nuget/packages/",
-        "outputPath": "/home/cristian/Desktop/Learning/dotnet/myApp/obj/",
+        "projectPath": "/Users/dev/Desktop/learning/dotnet/myApp/myApp.csproj",
+        "packagesPath": "/Users/dev/.nuget/packages/",
+        "outputPath": "/Users/dev/Desktop/learning/dotnet/myApp/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/cristian/.nuget/NuGet/NuGet.Config"
+          "/Users/dev/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     }

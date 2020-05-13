@@ -9,3 +9,13 @@
 /home/cristian/Desktop/Learning/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
 /home/cristian/Desktop/Learning/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.dll
 /home/cristian/Desktop/Learning/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
+/Users/dev/Desktop/learning/dotnet/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/Users/dev/Desktop/learning/dotnet/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/Users/dev/Desktop/learning/dotnet/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/Users/dev/Desktop/learning/dotnet/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/Users/dev/Desktop/learning/dotnet/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/Users/dev/Desktop/learning/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/Users/dev/Desktop/learning/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/Users/dev/Desktop/learning/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/Users/dev/Desktop/learning/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/Users/dev/Desktop/learning/dotnet/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
