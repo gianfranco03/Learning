@@ -1,0 +1,16 @@
+
+# React
+React/react-with-redux/node_modules
+React/react-with-redux/package-lock.json
+
+# Flutter
+# -> flutter_course
+Flutter/flutter_course/.idea
+Flutter/flutter_course/build
+Flutter/flutter_course/.packages
+Flutter/flutter_course/flutter_course.iml
+# task_3
+Flutter/task_3/.idea
+Flutter/task_3/build
+Flutter/task_3/.packages
+Flutter/task_3/task_3.iml
